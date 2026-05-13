@@ -94,6 +94,8 @@ El repositorio incluye un dataset de la familia **Mimidae** (sinsontes y cuclill
 
 Fuente: [GBIF.org](https://www.gbif.org) — licencia CC BY 4.0
 
+Cita: GBIF.org (12 May 2026) GBIF Occurrence Download https://doi.org/10.15468/dl.26g7nh
+
 ---
 
 ## 🧰 Tecnologías
