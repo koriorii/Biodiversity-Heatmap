@@ -298,6 +298,7 @@ if uploaded_file is not None:
 
 else:
     st.info("👈 Carga un archivo CSV desde el panel lateral para comenzar.")
+    st.markdown("[📄 Acá tienes un ejemplo de CSV sobre las aves Mimidae para probar el mapa](https://github.com/koriorii/Biodiversity-Heatmap/blob/24f431f68c4e5979f9c74936919923d014af3f7c/CSV_for_Testing.zip)")
 
     col_a, col_b = st.columns(2)
     with col_a:
